@@ -39,4 +39,3 @@
 </p>
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tannguyenit&layout=compact&theme=gotham" alt="tannguyenit" />
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=tannguyenit&show_icons=true&theme=gotham" alt="tannguyenit" />
